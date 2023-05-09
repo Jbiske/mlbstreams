@@ -10,7 +10,7 @@ function Home() {
  <div class="container">
 
 		<a href='/detroit' class="box-1" >Detroit Tigers</a>
-		<a href='/boston'  class="box-2" >Boston Red Soxs</a>
+		<a href='/boston'  class="box-2" >Boston Red Sox</a>
 	</div>
 
     </div>
