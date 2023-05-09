@@ -1,0 +1,48 @@
+body {
+    
+    font-size: 20px;
+  }
+nav {
+    background-color: rgb(29, 29, 29);
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    padding: .5rem;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    transition: all 0.3s ease-in-out;
+    z-index: 100;
+  }
+
+
+  nav.scrolled {
+    transform: translateY(-100%);
+  }
+  
+  nav ul {
+    
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+
+  
+
+  nav a {
+    font-family: 'Lato', sans-serif;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: center;
+    display: block;
+    padding: 10px;
+  }
+  nav a:hover{
+    transform: scale(1.1);
+    transition: transform 0.3s ease-in-out;
+    background-color: red;
+  }

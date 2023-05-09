@@ -6,14 +6,15 @@ import Boston from './pages/boston'
 import Yankee from './pages/yankee'
 import Pittsburg from "./pages/pittsburg";
 import './App.css';
-
+import Nav from "./pages/Navbar";
 
 function App() {
   return (
     <Router >
        <div>
+       <Nav/>
   <Routes>
-  
+
  <Route path='/' element={<Home></Home>} >
 
     </Route>
@@ -36,8 +37,10 @@ function App() {
 
     </Routes>
   
+  
 
     </div>
+
     </Router>
     
   );
