@@ -1,6 +1,7 @@
 *
-{
-  background-color: grey;
+{text-decoration: none;
+  background-color: rgb(11, 11, 11);
+  font-size: 25px;
 }
 
 
@@ -10,9 +11,11 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    padding: 20px;
+    padding: 40px;
   }
-  .app{
+  .app
+  {font-size: 60px;
+    color: white;
     text-align: center;
   
   }
@@ -53,8 +56,8 @@ body {
     margin-right: 20px;
     text-align: center;
     line-height: 200px;
-    color: rgb(230, 11, 11);
-    font-size: 30px;
+    color: rgb(192, 105, 0);
+    font-size: 50px;
     cursor: pointer;
     transition: background-color 0.5s;
     background-position: center;
@@ -77,8 +80,8 @@ body {
     margin-right: 20px;
     text-align: center;
     line-height: 200px;
-    color: rgb(230, 11, 11);
-    font-size: 30px;
+    color: red;
+    font-size: 50px;
     cursor: pointer;
     transition: background-color 0.5s;	background-position: center;
     background-repeat: no-repeat;
@@ -88,3 +91,26 @@ body {
   .box-2:hover{   transform: scale(1.1);
    
     transition: transform 0.3s ease-in-out;}
+
+
+    .box-3 {  
+        box-shadow: 0px 10px 10px darkblue;
+        background-image: url("./images/hicks.png");
+        width: 650px;
+        height: 650px;
+        margin-right: 20px;
+        text-align: center;
+        line-height: 200px;
+        color: cyan;
+        font-size: 50px;
+        cursor: pointer;
+        transition: background-color 0.5s;	background-position: center;
+        background-repeat: no-repeat;
+        background-size:cover;
+      
+      }
+
+
+      .box-3:hover{   transform: scale(1.1);
+   
+        transition: transform 0.3s ease-in-out;}
