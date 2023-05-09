@@ -7,7 +7,10 @@ const Detroit = () => {
         <div>
             <h1>Detroit Tigers</h1>
             <div className="iframe"> 
-            <iframe src='https://embedstream.me/detroit-tigers-stream-1' allowfullscreen allowtransparency></iframe>
+            <iframe src='https://embedstream.me/detroit-tigers-stream-1'title='Baseball' allowfullscreen allowtransparency></iframe>
+            </div>
+            <div className="iframe"> 
+            <iframe src='https://embedstream.me/detroit-tigers-stream-2'title='Baseball' allowfullscreen allowtransparency></iframe>
             </div>
         </div>
     )
