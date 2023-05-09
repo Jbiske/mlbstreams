@@ -1,0 +1,23 @@
+.iframe{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding:15px;
+
+    
+  }
+  .iframe iframe{
+    width:1500px ;
+    height:800px;
+
+  }
+  h1{
+    font-size: 2rem;
+    text-align: center;
+  }
+  *
+  {
+
+    background-color: grey;
+  }
