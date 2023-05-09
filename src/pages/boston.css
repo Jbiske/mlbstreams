@@ -9,7 +9,11 @@
   }
   .iframe iframe{
     width:1500px ;
-    height:800px;
+    height:850px;
+    border: none;
+    border: none;
+    outline:none;
+
 
   }
   h1{color:white;

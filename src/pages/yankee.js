@@ -8,12 +8,12 @@ const Yankee = () => {
       <h1>New York Yankees</h1>
       <h2> Broadcast 1 </h2>
       <div className="iframe">
-      <iframe src='https://embedstream.me/new-york-yankees-stream-1' title='Baseball' allowfullscreen allowtransparency></iframe>
+      <iframe src='https://embedstream.me/new-york-yankees-stream-1' title='Baseball' scrolling='no' allowfullscreen allowtransparency></iframe>
      
       </div>
       <h2> Broadcast 2 </h2>
       <div className="iframe">
-      <iframe src='https://embedstream.me/new-york-yankees-stream-2'title='Baseball' allowfullscreen allowtransparency></iframe>
+      <iframe src='https://embedstream.me/new-york-yankees-stream-2'title='Baseball' scrolling='no' allowfullscreen allowtransparency></iframe>
      
       </div>
         </div>

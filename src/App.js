@@ -4,6 +4,7 @@ import Home from './pages/home';
 import Detroit from './pages/detroit'
 import Boston from './pages/boston'
 import Yankee from './pages/yankee'
+import Pittsburg from "./pages/pittsburg";
 import './App.css';
 
 
@@ -26,6 +27,10 @@ function App() {
   </Route>
    
   <Route path='/yankees' element={<Yankee></Yankee>} >
+
+</Route>
+   
+<Route path='/pittsburg' element={<Pittsburg></Pittsburg>} >
 
 </Route>
 
