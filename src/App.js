@@ -7,6 +7,7 @@ import Yankee from './pages/yankee'
 import Pittsburg from "./pages/pittsburg";
 import './App.css';
 import Nav from "./pages/Navbar";
+import Twins from "./pages/twins";
 
 function App() {
   return (
@@ -32,6 +33,9 @@ function App() {
 </Route>
    
 <Route path='/pittsburg' element={<Pittsburg></Pittsburg>} >
+
+</Route>
+<Route path='/twins' element={<Twins></Twins>} >
 
 </Route>
 
