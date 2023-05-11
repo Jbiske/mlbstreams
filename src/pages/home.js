@@ -22,7 +22,7 @@ function Home() {
 	</div>
   <div class="container">
 
-<a href='/twins' class="box-1" >Minasota Twins</a>
+<a href='/twins' class="box-7" >Minnesota Twins</a>
 
 </div>
 

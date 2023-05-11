@@ -63,7 +63,7 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-size:cover;
-  margin-bottom:50px;
+    margin-bottom:50px;
    
   
   }
@@ -187,3 +187,29 @@ body {
             .box-6:hover{   transform: scale(1.1);
          
               transition: transform 0.3s ease-in-out;}
+
+
+
+              .box-7 { box-shadow: 0px 10px 10px rgba(0, 0, 3, 0.809);
+  
+                background-image:  url('./images/twins.jpg');
+                width: 650px;
+                height: 650px;;
+                margin-right: 20px;
+                text-align: center;
+                line-height: 200px;
+                color: rgb(32, 0, 192);
+                font-size: 50px;
+                cursor: pointer;
+                transition: background-color 0.5s;
+                background-position: center;
+                background-repeat: no-repeat;
+                background-size:cover;
+                margin-bottom:50px;
+               
+              
+              }
+              
+              
+              .box-7:hover{  transform: scale(1.1);
+                transition: transform 0.3s ease-in-out;}
