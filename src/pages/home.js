@@ -24,10 +24,17 @@ function Home() {
 
 <a href='/twins' class="box-7" >Minnesota Twins</a>
 
+
+
+
+<a href='/royals' class="box-8" >Kansas City Royals</a>
+
+<a href='/indians' class="box-9" >Cleveland Indians</a>
+</div>
+
 </div>
 
 
-    </div>
     
   );
 }

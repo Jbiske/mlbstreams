@@ -1,20 +1,24 @@
-import React from "react"
+import React from "react";
 
 
 
-const Pittsburg  = () => {
-    return( 
-        
-            <iframe src='https://embedstream.me/pittsburgh-pirates-stream-1' title='yes' width='500px' height='500px' scrolling='no' frameborder='0' allowfullscreen='true'  allowtransparency referrerpolicy='unsafe-url'></iframe>
-       
-
-
-
+const Pittsburg = () => {
+    return(
+        <div>
+      <h1>PissBurgh</h1>
+      <h2> Broadcast 1 </h2>
+      <div className="iframe">
+      <iframe src='https://embedstream.me/Pittsburgh-Pirates-stream-1'title='Baseball' scrolling='no'allowFullScreen ></iframe>
+     
+      </div>
+      <h2> Broadcast 2 </h2>
+      <div className="iframe">
+      <iframe src='https://embedstream.me/Pittsburgh-Pirates-stream-2'title='Baseball' scrolling='no'allowFullScreen ></iframe>
+     
+      </div>
+        </div>
     )
-
-
-
 };
 
 
-export default Pittsburg ;
+export default Pittsburg;

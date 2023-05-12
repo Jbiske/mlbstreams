@@ -8,6 +8,10 @@ import Pittsburg from "./pages/pittsburg";
 import './App.css';
 import Nav from "./pages/Navbar";
 import Twins from "./pages/twins";
+import Texas from './pages/texas'
+import Arizona from './pages/arizona'
+import Royals  from "./pages/royals";
+import Indians from './pages/Indians'
 
 function App() {
   return (
@@ -36,6 +40,18 @@ function App() {
 
 </Route>
 <Route path='/twins' element={<Twins></Twins>} >
+
+</Route>
+<Route path='/texas' element={<Texas></Texas>} >
+
+</Route>
+<Route path='/arizona' element={<Arizona></Arizona>} >
+
+</Route>
+<Route path='/royals' element={<Royals></Royals>} >
+
+</Route>
+<Route path='/indians' element={<Indians></Indians>} >
 
 </Route>
 
