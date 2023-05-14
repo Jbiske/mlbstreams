@@ -8,12 +8,12 @@ const Texas = () => {
       <h1>Texas Rangers</h1>
       <h2> Broadcast 1 </h2>
       <div className="iframe">
-      <iframe src='https://embedstream.me/Texas-Rangers-stream-1'title='Baseball' scrolling='no'allowFullScreen ></iframe>
+      <iframe src='https://embedstream.me/texas-rangers-stream-1'title='Baseball' scrolling='no'allowFullScreen ></iframe>
      
       </div>
       <h2> Broadcast 2 </h2>
       <div className="iframe">
-      <iframe src='https://embedstream.me/Texas-Rangers--stream-2'title='Baseball' scrolling='no'allowFullScreen ></iframe>
+      <iframe src='https://embedstream.me/texas-rangers-stream-2'title='Baseball' scrolling='no'allowFullScreen ></iframe>
      
       </div>
         </div>
