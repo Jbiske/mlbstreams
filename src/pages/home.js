@@ -32,6 +32,12 @@ function Home() {
 <a href='/indians' class="box-9" >Cleveland Indians</a>
 </div>
 
+<div class="container">
+<a href='/baltimore' class="box-10" >Baltimore Orioles</a>
+
+
+  </div>
+
 </div>
 
 

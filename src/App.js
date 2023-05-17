@@ -12,6 +12,8 @@ import Texas from './pages/texas'
 import Arizona from './pages/arizona'
 import Royals  from "./pages/royals";
 import Indians from './pages/Indians'
+import Baltimore from "./pages/baltimore";
+
 
 function App() {
   return (
@@ -52,6 +54,9 @@ function App() {
 
 </Route>
 <Route path='/indians' element={<Indians></Indians>} >
+
+</Route>
+<Route path='/baltimore' element={<Baltimore></Baltimore>} >
 
 </Route>
 
