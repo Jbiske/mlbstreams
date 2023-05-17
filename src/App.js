@@ -13,7 +13,9 @@ import Arizona from './pages/arizona'
 import Royals  from "./pages/royals";
 import Indians from './pages/Indians'
 import Baltimore from "./pages/baltimore";
-
+import Whites from "./pages/white";
+import Rays from "./pages/rays";
+import Jays from "./pages/jays";
 
 function App() {
   return (
@@ -59,6 +61,16 @@ function App() {
 <Route path='/baltimore' element={<Baltimore></Baltimore>} >
 
 </Route>
+<Route path='/white' element={<Whites></Whites>} >
+
+</Route>
+<Route path='/rays' element={<Rays></Rays>} >
+
+</Route>
+<Route path='/jays' element={<Jays></Jays>} >
+
+</Route>
+
 
     </Routes>
   
