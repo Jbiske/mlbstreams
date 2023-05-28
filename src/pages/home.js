@@ -6,7 +6,7 @@ function Home() {
   return (
     
     <div className="app">
-      <h1>Adless MLB Streams </h1>
+
       AL Central
  <div class="container"> 
 
@@ -20,7 +20,7 @@ function Home() {
 
  N/A
   <div class="container">
-
+  <a href='/braves' class="box-14" >Atlanta Braves</a>
   <a href='/texas' class="box-4" >Texas Rangers</a>
 		<a href='/pittsburg'  class="box-5" >Pittsburgh Pirates</a>
         <a href='/arizona'  class="box-6" >Arizona Diamondbacks</a>
