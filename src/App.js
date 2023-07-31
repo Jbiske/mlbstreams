@@ -17,6 +17,14 @@ import Whites from "./pages/white";
 import Rays from "./pages/rays";
 import Jays from "./pages/jays";
 import Braves from "./pages/braves";
+import Cards from "./pages/cards";
+import Cubs from "./pages/cubs";
+import Brews from "./pages/brews";
+import Reds from "./pages/reds";
+import Nats from "./pages/nats";
+import Philly from "./pages/philly";
+import Mets from "./pages/mets";
+import Marlins from "./pages/marlins";
 
 function App() {
   return (
@@ -74,8 +82,31 @@ function App() {
 <Route path='/braves' element={<Braves></Braves>} >
 
 </Route>
+<Route path='/cubs' element={<Cubs/>} >
 
+</Route>
+<Route path='/brews' element={<Brews/>} >
+
+</Route>
+<Route path='/reds' element={<Reds/>} >
+
+</Route>
+<Route path='/cards' element={<Cards/>} >
+
+</Route>
+<Route path='/nats' element={<Nats/>} >
+
+</Route>
+<Route path='/philly' element={<Philly/>} >
+
+</Route>
+<Route path='/mets' element={<Mets/>} >
+</Route>
+<Route path='/marlins' element={<Marlins/>} >
+
+</Route>
     </Routes>
+    
   
   
 

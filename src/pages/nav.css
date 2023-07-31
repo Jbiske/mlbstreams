@@ -7,7 +7,7 @@ nav {
     color: #fff;
     display: flex;
     justify-content: center;
-    padding: .5rem;
+    padding: .2rem;
     position: fixed;
     top: 0;
     left: 0;
@@ -36,7 +36,7 @@ nav {
     color: white;
     text-decoration: none;
     font-weight: bold;
-    font-size: 18px;
+    font-size: 20px;
     text-align: center;
     display: block;
     padding: 10px;

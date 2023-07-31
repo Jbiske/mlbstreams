@@ -2,7 +2,7 @@ import React from "react";
 
 
 
-const Baltimore = () => {
+const braves = () => {
     return(
         <div>
       <h1>Atlanta Chops</h1>
@@ -21,4 +21,4 @@ const Baltimore = () => {
 };
 
 
-export default Baltimore;
+export default braves;

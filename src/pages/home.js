@@ -16,13 +16,33 @@ function Home() {
     <a href='/twins' class="box-7" >Minnesota Twins</a>
     <a href='/white' class="box-11" >Chicago White Soxs</a>
 	</div>
- 
+  
+  NL Central
+  <div class="container">
+  <a href='/cubs' class="box-17" >Cody Cubs</a>
+  <a href='/reds' class="box-18" > Cruz Reds</a>
+	<a href='/brews'  class="box-16" > Brew Crew</a>
+  <a href='/pittsburg'  class="box-5" >Pittsburgh Pirates</a>
+  <a href='/cards'  class="box-15" >Paul Goldy Cards</a>
+	</div>
+
+
+NL EAST
+<div class="container">
+  <a href='/braves' class="box-14" >Atlanta Braves</a>
+  <a href='/marlins' class="box-20" >Maimi Marlins</a>
+  <a href='/mets' class="box-21" >New York Jets</a>
+  <a href='/nats' class="box-19" >Washington  Nationals</a>
+  <a href='/philly' class="box-22" >Phillie Phillie Phillie </a>
+
+	</div>
+
 
  N/A
   <div class="container">
-  <a href='/braves' class="box-14" >Atlanta Braves</a>
+  
   <a href='/texas' class="box-4" >Texas Rangers</a>
-		<a href='/pittsburg'  class="box-5" >Pittsburgh Pirates</a>
+
         <a href='/arizona'  class="box-6" >Arizona Diamondbacks</a>
 	</div>
 
