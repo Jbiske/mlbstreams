@@ -168,7 +168,7 @@ body {
 
             .box-6 {  
               box-shadow: 0px 10px 10px rgb(57, 248, 255);
-              background-image: url("./images/arizona.jpg");
+              background-image: url("./images/dbacks.jpg");
               width: 500px;
               height: 400px;
               margin-right: 20px;
@@ -382,7 +382,7 @@ body {
                           .box-13:hover{  transform: scale(1.1);
                             transition: transform 0.3s ease-in-out;}
 
-                            .box-15{ box-shadow: 0px 10px 10px rgba(0, 4, 255, 0.809);
+                            .box-15{ box-shadow: 0px 10px 10px rgba(255, 0, 0, 0.809);
   
                               background-image:  url('./images/cards.jpg');
                               width: 500px;
@@ -403,7 +403,7 @@ body {
                             }
                             .box-15:hover{  transform: scale(1.1);
                               transition: transform 0.3s ease-in-out;}
-                              .box-16{ box-shadow: 0px 10px 10px rgba(0, 4, 255, 0.809);
+                              .box-16{ box-shadow: 0px 10px 10px rgba(0, 2, 113, 0.809);
   
                                 background-image:  url('./images/brewers.webp');
                                 width: 500px;
@@ -445,7 +445,7 @@ body {
                                 }
                                 .box-17:hover{  transform: scale(1.1);
                                   transition: transform 0.3s ease-in-out;}
-                                  .box-18{ box-shadow: 0px 10px 10px rgba(0, 4, 255, 0.809);
+                                  .box-18{ box-shadow: 0px 10px 10px rgba(255, 0, 0, 0.809);
   
                                     background-image:  url('./images/votto.jpg');
                                     width: 500px;
@@ -467,7 +467,7 @@ body {
                                   .box-18:hover{  transform: scale(1.1);
                                     transition: transform 0.3s ease-in-out;}
 
-                                    .box-19{ box-shadow: 0px 10px 10px rgba(0, 4, 255, 0.809);
+                                    .box-19{ box-shadow: 0px 10px 10px rgba(255, 0, 0, 0.809);
   
                                       background-image:  url('./images/nats.jpg');
                                       width: 500px;
@@ -488,7 +488,7 @@ body {
                                     }
                                     .box-19:hover{  transform: scale(1.1);
                                       transition: transform 0.3s ease-in-out;}
-                                      .box-20{ box-shadow: 0px 10px 10px rgba(0, 4, 255, 0.809);
+                                      .box-20{ box-shadow: 0px 10px 10px rgba(255, 0, 195, 0.809);
   
                                         background-image:  url('./images/marlins.jpg');
                                         width: 500px;
@@ -509,7 +509,7 @@ body {
                                       }
                                       .box-20:hover{  transform: scale(1.1);
                                         transition: transform 0.3s ease-in-out;}
-                                        .box-21{ box-shadow: 0px 10px 10px rgba(0, 4, 255, 0.809);
+                                        .box-21{ box-shadow: 0px 10px 10px rgba(255, 136, 0, 0.809);
   
                                           background-image:  url('./images/mets.jpg');
                                           width: 500px;
@@ -517,7 +517,7 @@ body {
                                           margin-right: 20px;
                                           text-align: center;
                                           line-height: 200px;
-                                          color: rgb(255, 17, 17);
+                                          color: rgb(255, 145, 0);
                                           font-size: 50px;
                                           cursor: pointer;
                                           transition: background-color 0.5s;
@@ -531,7 +531,7 @@ body {
                                         .box-21:hover{  transform: scale(1.1);
                                           transition: transform 0.3s ease-in-out;}
 
-                                          .box-22{ box-shadow: 0px 10px 10px rgba(0, 4, 255, 0.809);
+                                          .box-22{ box-shadow: 0px 10px 10px rgba(255, 0, 0, 0.809);
   
                                             background-image:  url('./images/Philly.avif');
                                             width: 500px;
@@ -552,3 +552,172 @@ body {
                                           }
                                           .box-22:hover{  transform: scale(1.1);
                                             transition: transform 0.3s ease-in-out;}
+
+
+                                            .box-23{ box-shadow: 0px 10px 10px rgba(0, 149, 255, 0.809);
+  
+                                              background-image:  url('./images/dodgers.jpg');
+                                              width: 500px;
+                                              height: 400px;
+                                              margin-right: 20px;
+                                              text-align: center;
+                                              line-height: 200px;
+                                              color: rgb(255, 17, 17);
+                                              font-size: 50px;
+                                              cursor: pointer;
+                                              transition: background-color 0.5s;
+                                              background-position: center;
+                                              background-repeat: no-repeat;
+                                              background-size:cover;
+                                              margin-bottom:50px;
+                                             
+                
+                                            }
+                                            .box-23:hover{  transform: scale(1.1);
+                                              transition: transform 0.3s ease-in-out;}
+                                              .box-24{ box-shadow: 0px 10px 10px rgba(255, 153, 0, 0.809);
+  
+                                                background-image:  url('./images/giants.webp');
+                                                width: 500px;
+                                                height: 400px;
+                                                margin-right: 20px;
+                                                text-align: center;
+                                                line-height: 200px;
+                                                color: rgb(255, 17, 17);
+                                                font-size: 50px;
+                                                cursor: pointer;
+                                                transition: background-color 0.5s;
+                                                background-position: center;
+                                                background-repeat: no-repeat;
+                                                background-size:cover;
+                                                margin-bottom:50px;
+                                               
+                  
+                                              }
+                                           
+                                                .box-25{ box-shadow: 0px 10px 10px rgba(255, 0, 251, 0.809);
+  
+                                                  background-image:  url('./images/rockies.avif');
+                                                  width: 500px;
+                                                  height: 400px;
+                                                  margin-right: 20px;
+                                                  text-align: center;
+                                                  line-height: 200px;
+                                                  color: rgb(255, 17, 17);
+                                                  font-size: 50px;
+                                                  cursor: pointer;
+                                                  transition: background-color 0.5s;
+                                                  background-position: center;
+                                                  background-repeat: no-repeat;
+                                                  background-size:cover;
+                                                  margin-bottom:50px;
+                                                 
+                    
+                                                }
+                                                .box-25:hover{  transform: scale(1.1);
+                                                  transition: transform 0.3s ease-in-out;}
+                                                  .box-26{ box-shadow: 0px 10px 10px rgba(84, 39, 0, 0.809);
+  
+                                                    background-image:  url('./images/padres.jpg');
+                                                    width: 500px;
+                                                    height: 400px;
+                                                    margin-right: 20px;
+                                                    text-align: center;
+                                                    line-height: 200px;
+                                                    color: rgb(255, 17, 17);
+                                                    font-size: 50px;
+                                                    cursor: pointer;
+                                                    transition: background-color 0.5s;
+                                                    background-position: center;
+                                                    background-repeat: no-repeat;
+                                                    background-size:cover;
+                                                    margin-bottom:50px;
+                                                   
+                      
+                                                  }
+                                                  .box-26:hover{  transform: scale(1.1);
+                                                    transition: transform 0.3s ease-in-out;}
+                                                    .box-27{ box-shadow: 0px 10px 10px rgb(255, 132, 0);
+  
+                                                      background-image:  url('./images/astos.jpg');
+                                                      width: 500px;
+                                                      height: 400px;
+                                                      margin-right: 20px;
+                                                      text-align: center;
+                                                      line-height: 200px;
+                                                      color: rgb(255, 176, 17);
+                                                      font-size: 50px;
+                                                      cursor: pointer;
+                                                      transition: background-color 0.5s;
+                                                      background-position: center;
+                                                      background-repeat: no-repeat;
+                                                      background-size:cover;
+                                                      margin-bottom:50px;
+                                                     
+                        
+                                                    }
+                                                    .box-27:hover{  transform: scale(1.1);
+                                                      transition: transform 0.3s ease-in-out;}
+                                                      .box-28{ box-shadow: 0px 10px 10px rgba(0, 171, 250, 0.809);
+  
+                                                        background-image:  url('./images/marieners.jpg');
+                                                        width: 500px;
+                                                        height: 400px;
+                                                        margin-right: 20px;
+                                                        text-align: center;
+                                                        line-height: 200px;
+                                                        color: rgb(0, 195, 255);
+                                                        font-size: 50px;
+                                                        cursor: pointer;
+                                                        transition: background-color 0.5s;
+                                                        background-position: center;
+                                                        background-repeat: no-repeat;
+                                                        background-size:cover;
+                                                        margin-bottom:50px;
+                                                       
+                          
+                                                      }
+                                                      .box-28:hover{  transform: scale(1.1);
+                                                        transition: transform 0.3s ease-in-out;}
+                                                        .box-29{ box-shadow: 0px 10px 10px rgba(255, 0, 0, 0.809);
+  
+                                                          background-image:  url('./images/angels.jpg');
+                                                          width: 500px;
+                                                          height: 400px;
+                                                          margin-right: 20px;
+                                                          text-align: center;
+                                                          line-height: 200px;
+                                                          color: rgb(255, 17, 17);
+                                                          font-size: 50px;
+                                                          cursor: pointer;
+                                                          transition: background-color 0.5s;
+                                                          background-position: center;
+                                                          background-repeat: no-repeat;
+                                                          background-size:cover;
+                                                          margin-bottom:50px;
+                                                         
+                            
+                                                        }
+                                                        .box-29:hover{  transform: scale(1.1);
+                                                          transition: transform 0.3s ease-in-out;}
+                                                          .box-30{ box-shadow: 0px 10px 10px rgba(26, 255, 0, 0.809);
+  
+                                                            background-image:  url('./images/a\'s.jpg');
+                                                            width: 500px;
+                                                            height: 400px;
+                                                            margin-right: 20px;
+                                                            text-align: center;
+                                                            line-height: 200px;
+                                                            color: rgb(17, 255, 33);
+                                                            font-size: 50px;
+                                                            cursor: pointer;
+                                                            transition: background-color 0.5s;
+                                                            background-position: center;
+                                                            background-repeat: no-repeat;
+                                                            background-size:cover;
+                                                            margin-bottom:50px;
+                                                           
+                              
+                                                          }
+                                                          .box-30:hover{  transform: scale(1.1);
+                                                            transition: transform 0.3s ease-in-out;}

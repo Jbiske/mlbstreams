@@ -25,6 +25,20 @@ import Nats from "./pages/nats";
 import Philly from "./pages/philly";
 import Mets from "./pages/mets";
 import Marlins from "./pages/marlins";
+import Astros from "./pages/astros";
+import Padres from "./pages/padres";
+import Mariners from "./pages/mariners";
+import Dodgers from "./pages/dodgers";
+import Rockies from "./pages/rockies";
+import A from "./pages/as";
+import Angels from "./pages/angels";
+import Giants from "./pages/giants";
+
+
+
+
+
+
 
 function App() {
   return (
@@ -105,8 +119,53 @@ function App() {
 <Route path='/marlins' element={<Marlins/>} >
 
 </Route>
+
+
+<Route path='/padres' element={<Padres/>} >
+
+</Route>
+
+
+<Route path='/astros' element={<Astros/>} >
+
+</Route>
+
+
+
+
+<Route path='/rockies' element={<Rockies/>} >
+
+
+</Route>
+
+
+
+<Route path='/dodgers' element={<Dodgers/>} >
+
+</Route>
+
+<Route path='/giants' element={<Giants/>} >
+
+
+</Route>
+
+
+
+<Route path='/seattle' element={<Mariners/>} >
+
+</Route>
+
+
+<Route path='/angels' element={<Angels/>} >
+
+</Route>
+
+<Route path='/As' element={<A/>} >
+
+</Route>
+
     </Routes>
-    
+   
   
   
 

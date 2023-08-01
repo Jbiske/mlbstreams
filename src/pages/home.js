@@ -38,13 +38,6 @@ NL EAST
 	</div>
 
 
- N/A
-  <div class="container">
-  
-  <a href='/texas' class="box-4" >Texas Rangers</a>
-
-        <a href='/arizona'  class="box-6" >Arizona Diamondbacks</a>
-	</div>
 
 
 
@@ -64,11 +57,32 @@ NL EAST
 <a href='/rays' class="box-12" >Tampa Bay Rays</a>
 </div>
 
-<div class="container">
+NL WEST
+  <div class="container">
+  
 
 
+        <a href='/arizona'  class="box-6" >Arizona Diamondbacks</a>
+        
+        <a href='/dodgers'  class="box-23" >LA Dodgers </a>
+        
+        <a href='/giants'  class="box-24" >San Fran Giants </a>
+        
+        <a href='/rockies'  class="box-25" >Colorodo Rockies </a>
+        
+        <a href='/padres'  class="box-26" >Slam Diego  Padres</a>
 
-  </div>
+	</div>
+AL WEST
+  <div class="container">
+  
+  <a href='/texas' class="box-4" >Texas Rangers</a>
+  <a href='/astros' class="box-27" >Houston Astros</a>
+  <a href='/seattle' class="box-28" >Seattle Mariners</a>
+  <a href='/angels' class="box-29" >LA Angels</a>
+  <a href='/As' class="box-30" >Las Vegas A's</a>
+
+	</div>
 
 </div>
 
