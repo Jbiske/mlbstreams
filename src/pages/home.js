@@ -30,7 +30,7 @@ function Home() {
 NL EAST
 <div class="container">
   <a href='/braves' class="box-14" >Atlanta Braves</a>
-  <a href='/marlins' class="box-20" >Maimi Marlins</a>
+  <a href='/marlins' class="box-20" >Miagoitmi Marlins</a>
   <a href='/mets' class="box-21" >New York Jets</a>
   <a href='/nats' class="box-19" >Washington  Nationals</a>
   <a href='/philly' class="box-22" >Phillie Phillie Phillie </a>
@@ -68,7 +68,7 @@ NL WEST
         
         <a href='/giants'  class="box-24" >San Fran Giants </a>
         
-        <a href='/rockies'  class="box-25" >Colorodo Rockies </a>
+        <a href='/rockies'  class="box-25" >Colorado Rockies </a>
         
         <a href='/padres'  class="box-26" >Slam Diego  Padres</a>
 
