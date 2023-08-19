@@ -33,8 +33,8 @@ import Rockies from "./pages/rockies";
 import A from "./pages/as";
 import Angels from "./pages/angels";
 import Giants from "./pages/giants";
-
-
+import Lions from "./pages/lions";
+import Pats from "./pages/pats";
 
 
 
@@ -163,7 +163,12 @@ function App() {
 <Route path='/As' element={<A/>} >
 
 </Route>
+<Route path='/lions' element={<Lions/>} >
 
+</Route>
+<Route path='/pats' element={<Pats/>} >
+
+</Route>
     </Routes>
    
   

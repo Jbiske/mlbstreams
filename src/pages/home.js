@@ -83,6 +83,13 @@ AL WEST
   <a href='/As' class="box-30" >Las Vegas A's</a>
 
 	</div>
+  NFL
+  <div class="container">
+  
+  <a href='/lions' class="box-31" >Detroit Lions </a>
+  <a href='/pats' class="box-32" >New England Patriots </a>
+
+	</div>
 
 </div>
 
