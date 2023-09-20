@@ -35,7 +35,7 @@ import Angels from "./pages/angels";
 import Giants from "./pages/giants";
 import Lions from "./pages/lions";
 import Pats from "./pages/pats";
-
+import NYG from "./pages/nyg";
 
 
 
@@ -167,6 +167,9 @@ function App() {
 
 </Route>
 <Route path='/pats' element={<Pats/>} >
+
+</Route>
+<Route path='/nyg' element={<NYG/>} >
 
 </Route>
     </Routes>

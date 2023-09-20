@@ -88,7 +88,7 @@ AL WEST
   
   <a href='/lions' class="box-31" >Detroit Lions </a>
   <a href='/pats' class="box-32" >New England Patriots </a>
-
+  <a href="/nyg" className="box-33"> NEW YORK GIANTS </a>
 	</div>
 
 </div>
