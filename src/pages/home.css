@@ -764,15 +764,15 @@ body {
                                                               .box-32:hover{  transform: scale(1.1);
                                                                 transition: transform 0.3s ease-in-out;}
                                                                 
-                                                                .box-33{ box-shadow: 0px 10px 10px rgba(255, 1, 1, 0.809);
+                                                                .box-33{ box-shadow: 0px 10px 10px rgba(255, 0, 230, 0.809);
   
-                                                                  background-image:  url('./images/jones.jpg');
+                                                                  background-image:  url('./images/Connor.jpg');
                                                                   width: 500px;
                                                                   height: 400px;
                                                                   margin-right: 20px;
                                                                   text-align: center;
                                                                   line-height: 200px;
-                                                                  color: rgb(0, 26, 255);
+                                                                  color: rgb(255, 0, 43);
                                                                   font-size: 50px;
                                                                   cursor: pointer;
                                                                   transition: background-color 0.5s;
@@ -785,7 +785,7 @@ body {
                                                                 }
                                                                 .box-33:hover{  transform: scale(1.1);
                                                                   transition: transform 0.3s ease-in-out;}
-                                                                  .box-34{ box-shadow: 0px 10px 10px rgba(255, 1, 1, 0.809);
+                                                                  .box-34{ box-shadow: 0px 10px 10px rgba(255, 0, 0, 0.809);
   
                                                                     background-image:  url('./images/wings.webp');
                                                                     width: 500px;
