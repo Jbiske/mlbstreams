@@ -37,6 +37,13 @@ import Lions from "./pages/lions";
 import Pats from "./pages/pats";
 import NYG from "./pages/nyg";
 import Wings from "./pages/wings";
+import Oilers from "./pages/oilers";
+import Rangers from "./pages/rangers";
+import Stars from "./pages/stars";
+import Panthers from "./pages/panthers";
+import Avalanche from "./pages/avalache";
+import Canes from "./pages/cane";
+import Bruins from "./pages/bruins";
 
 
 
@@ -173,6 +180,29 @@ function App() {
 
 </Route>
 <Route path='/wings' element={<Wings/>} >
+
+</Route>
+
+
+<Route path='/canes' element={<Canes/>} >
+
+</Route>
+<Route path='/rangers' element={<Rangers/>} >
+
+</Route>
+<Route path='/bruins' element={<Bruins/>} >
+
+</Route>
+<Route path='/Co' element={<Avalanche/>} >
+
+</Route>
+<Route path='/stars' element={<Stars/>} >
+
+</Route>
+<Route path='/panthers' element={<Panthers/>} >
+
+</Route>
+<Route path='/oilers' element={<Oilers/>} >
 
 </Route>
     </Routes>

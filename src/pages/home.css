@@ -407,8 +407,8 @@ body {
                              
 
                             }
-                            .box-15:hover{  transform: scale(1.1);
-                              transition: transform 0.3s ease-in-out;}
+                    .box-15:hover{  transform: scale(1.1);
+                          transition: transform 0.3s ease-in-out;}
                               .box-16{ box-shadow: 0px 10px 10px rgba(0, 2, 113, 0.809);
   
                                 background-image:  url('./images/brewers.webp');
@@ -812,3 +812,150 @@ body {
                                                                   }
                                                                   .box-34:hover{  transform: scale(1.1);
                                                                     transition: transform 0.3s ease-in-out;}
+                                                                    .box-35{ box-shadow: 0px 10px 10px rgba(255, 255, 255, 0.809);
+  
+                                                                      background-image:  url('./images/canes.png');
+                                                                      width: 250px;
+                                                                      height: 400px;
+                                                                      margin-right: 30px;
+                                                                      text-align: center;
+                                                                      line-height: 200px;
+                                                                      color: rgb(0, 26, 255);
+                                                                      font-size: 30px;
+                                                                      cursor: pointer;
+                                                                      transition: background-color 0.5s;
+                                                                      background-position: center;
+                                                                      background-repeat: no-repeat;
+                                                                      background-size:cover;
+                                                                      margin-bottom:30px;
+                                                                     
+                                        
+                                                                    }
+                                                                    .box-35:hover{  transform: scale(1.1);
+                                                                      transition: transform 0.3s ease-in-out;}
+                                                                      .box-36{ box-shadow: 0px 10px 10px rgba(255, 0, 0, 0.809);
+  
+                                                                        background-image:  url('./images/rangers.jpg');
+                                                                        width: 250px;
+                                                                        height: 400px;
+                                                                        margin-right: 30px;
+                                                                        text-align: center;
+                                                                        line-height: 200px;
+                                                                        color: rgb(222, 0, 0);
+                                                                        font-size: 40px;
+                                                                        cursor: pointer;
+                                                                        transition: background-color 0.5s;
+                                                                        background-position: center;
+                                                                        background-repeat: no-repeat;
+                                                                        background-size:cover;
+                                                                        margin-bottom:30px;
+                                                                       
+                                          
+                                                                      }
+                                                                      .box-36:hover{  transform: scale(1.1);
+                                                                        transition: transform 0.3s ease-in-out;}
+                                                                        .box-37{ box-shadow: 0px 10px 10px rgba(255, 208, 0, 0.809);
+  
+                                                                          background-image:  url('./images/bruins.jpg');
+                                                                          width: 250px;
+                                                                          height: 400px;
+                                                                          margin-right: 30px;
+                                                                          text-align: center;
+                                                                          line-height: 200px;
+                                                                          color: rgb(255, 225, 0);
+                                                                          font-size: 40px;
+                                                                          cursor: pointer;
+                                                                          transition: background-color 0.5s;
+                                                                          background-position: center;
+                                                                          background-repeat: no-repeat;
+                                                                          background-size:cover;
+                                                                          margin-bottom:30px;
+                                                                         
+                                            
+                                                                        }
+                                                                        .box-37:hover{  transform: scale(1.1);
+                                                                          transition: transform 0.3s ease-in-out;}
+                                                                          .box-38{ box-shadow: 0px 10px 10px rgba(0, 153, 255, 0.809);
+  
+                                                                            background-image:  url('./images/av.webp');
+                                                                            width: 250px;
+                                                                            height: 400px;
+                                                                            margin-right: 30px;
+                                                                            text-align: center;
+                                                                            line-height: 200px;
+                                                                            color: rgb(0, 251, 255);
+                                                                            font-size: 40px;
+                                                                            cursor: pointer;
+                                                                            transition: background-color 0.5s;
+                                                                            background-position: center;
+                                                                            background-repeat: no-repeat;
+                                                                            background-size:cover;
+                                                                            margin-bottom:30px;
+                                                                           
+                                              
+                                                                          }
+                                                                          .box-38:hover{  transform: scale(1.1);
+                                                                            transition: transform 0.3s ease-in-out;}
+                                                                            .box-39{ box-shadow: 0px 10px 10px rgba(0, 255, 17, 0.809);
+  
+                                                                              background-image:  url('./images/stars.jpg');
+                                                                              width: 250px;
+                                                                              height: 400px;
+                                                                              margin-right: 30px;
+                                                                              text-align: center;
+                                                                              line-height: 200px;
+                                                                              color: rgb(17, 255, 0);
+                                                                              font-size: 40px;
+                                                                              cursor: pointer;
+                                                                              transition: background-color 0.5s;
+                                                                              background-position: center;
+                                                                              background-repeat: no-repeat;
+                                                                              background-size:cover;
+                                                                              margin-bottom:30px;
+                                                                             
+                                                
+                                                                            }
+                                                                            .box-39:hover{  transform: scale(1.1);
+                                                                              transition: transform 0.3s ease-in-out;}
+                                                                              .box-40{ box-shadow: 0px 10px 10px rgba(255, 0, 0, 0.809);
+  
+                                                                                background-image:  url('./images/panthers.webp');
+                                                                                width: 250px;
+                                                                                height: 400px;
+                                                                                margin-right: 30px;
+                                                                                text-align: center;
+                                                                                line-height: 200px;
+                                                                                color: rgb(203, 3, 3);
+                                                                                font-size: 40px;
+                                                                                cursor: pointer;
+                                                                                transition: background-color 0.5s;
+                                                                                background-position: center;
+                                                                                background-repeat: no-repeat;
+                                                                                background-size:cover;
+                                                                                margin-bottom:30px;
+                                                                               
+                                                  
+                                                                              }
+                                                                              .box-40:hover{  transform: scale(1.1);
+                                                                                transition: transform 0.3s ease-in-out;}
+                                                                                .box-41{ box-shadow: 0px 10px 10px rgba(255, 136, 0, 0.809);
+  
+                                                                                  background-image:  url('./images/mcdavid.webp');
+                                                                                  width: 250px;
+                                                                                  height: 400px;
+                                                                                  margin-right: 30px;
+                                                                                  text-align: center;
+                                                                                  line-height: 200px;
+                                                                                  color: rgb(254, 127, 0);
+                                                                                  font-size: 40px;
+                                                                                  cursor: pointer;
+                                                                                  transition: background-color 0.5s;
+                                                                                  background-position: center;
+                                                                                  background-repeat: no-repeat;
+                                                                                  background-size:cover;
+                                                                                  margin-bottom:30px;
+                                                                                 
+                                                    
+                                                                                }
+                                                                                .box-41:hover{  transform: scale(1.1);
+                                                                                  transition: transform 0.3s ease-in-out;}

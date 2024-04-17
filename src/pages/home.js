@@ -83,14 +83,28 @@ AL WEST
   <a href='/As' class="box-30" >Las Vegas A's</a>
 
 	</div>
+
+Hockey
+  <div class="container">
+  
+  <a href='/canes' class="box-35" >Carolina Canes </a>
+  <a href='/rangers' class="box-36" >Rangers </a>
+  <a href="/bruins" className="box-37"> Boston Bruins!!!!!! </a>
+  <a href="/co" className="box-38"> Av   </a>
+  <a href="/stars" className="box-39"> Dallas Stars  </a>
+  <a href="/panthers" className="box-40"> Florida Panthers </a>
+  <a href="/oilers" className="box-41"> Edmongton  </a>
+  <a href="/wings" className="box-34"> DETROIT RED WINGS </a>
+	</div>
 MISC!
   <div class="container">
   
   <a href='/lions' class="box-31" >Detroit Lions </a>
   <a href='/pats' class="box-32" >New England Patriots </a>
   <a href="/nyg" className="box-33"> UFC Fighting Fight MMA!!!! </a>
-  <a href="/wings" className="box-34"> DETROIT RED WINGS </a>
+
 	</div>
+
 
 </div>
 
