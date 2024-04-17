@@ -14,16 +14,21 @@ body {
     padding: 45px;
   }
   .app
-  {font-size: 60px;
+  { 
+    font-size: 60px;
     color: white;
     text-align: center;
   
   }
   .container {
+    width: 100%;
+    height: auto;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100%;
+    flex-wrap: wrap; 
+
   
   }
   
@@ -32,7 +37,7 @@ body {
   
     width: 150px;
     height: 150px;
-    margin-right: 20px;
+    margin-right: 30px;
     text-align: center;
     line-height: 200px;
     color: rgb(230, 11, 11);
@@ -49,21 +54,21 @@ body {
   }
   
   .box-1 { box-shadow: 0px 10px 10px rgb(162, 106, 2);
-  
-    background-image:  url('./images/javy.jpg');
-    width: 500px;
+    
+    background-image:  url('./images/Tigers.avif');
+    width: 250px;
     height: 400px;
-    margin-right: 20px;
+    margin-right: 30px;
     text-align: center;
     line-height: 200px;
     color: rgb(192, 105, 0);
-    font-size: 50px;
+    font-size: 30px;
     cursor: pointer;
     transition: background-color 0.5s;
     background-position: center;
     background-repeat: no-repeat;
     background-size:cover;
-    margin-bottom:50px;
+    margin-bottom:30px;
    
   
   }
@@ -75,18 +80,18 @@ body {
   .box-2 {  
     box-shadow: 0px 10px 10px red;
     background-image: url("./images/red.jpg");
-    width: 500px;
+    width: 250px;
     height: 400px;
-    margin-right: 20px;
+    margin-right: 30px;
     text-align: center;
     line-height: 200px;
     color: red;
-    font-size: 50px;
+    font-size: 30px;
     cursor: pointer;
     transition: background-color 0.5s;	background-position: center;
     background-repeat: no-repeat;
     background-size:cover;
-    margin-bottom:50px;
+    margin-bottom:30px;
    
 
   }
@@ -98,18 +103,18 @@ body {
     .box-3 {  
         box-shadow: 0px 10px 10px darkblue;
         background-image: url("./images/hicks.png");
-        width: 500px;
+        width: 250px;
         height: 400px;
-        margin-right: 20px;
+        margin-right: 30px;
         text-align: center;
         line-height: 200px;
         color: rgb(0, 3, 83);
-        font-size: 50px;
+        font-size: 30px;
         cursor: pointer;
         transition: background-color 0.5s;	background-position: center;
         background-repeat: no-repeat;
         background-size:cover;
-        margin-bottom:50px;
+        margin-bottom:30px;
    
       }
 
@@ -120,19 +125,19 @@ body {
         .box-4 {  
           display:flex;
           box-shadow: 0px 10px 10px rgb(160, 0, 0);
-          background-image: url("./images/texas.jpg");
-          width: 500px;
+          background-image: url("./images/texas2.jpeg");
+          width: 250px;
           height: 400px;
-          margin-right: 20px;
+          margin-right: 30px;
           text-align: center;
           line-height: 200px;
           color: rgb(255, 0, 0);
-          font-size: 50px;
+          font-size: 30px;
           cursor: pointer;
           transition: background-color 0.5s;	background-position: center;
           background-repeat: no-repeat;
           background-size:cover;
-          margin-bottom:50px;
+          margin-bottom:30px;
      
         }
   
@@ -145,18 +150,18 @@ body {
           .box-5 {  
             box-shadow: 0px 10px 10px rgb(209, 181, 0);
             background-image: url("./images/pirates.jpg");
-            width: 500px;
+            width: 250px;
             height: 400px;
-            margin-right: 20px;
+            margin-right: 30px;
             text-align: center;
             line-height: 200px;
             color: rgb(246, 236, 54);
-            font-size: 50px;
+            font-size: 30px;
             cursor: pointer;
             transition: background-color 0.5s;	background-position: center;
             background-repeat: no-repeat;
             background-size:cover;
-            margin-bottom:50px;
+            margin-bottom:30px;
        
           }
     
@@ -169,18 +174,18 @@ body {
             .box-6 {  
               box-shadow: 0px 10px 10px rgb(57, 248, 255);
               background-image: url("./images/dbacks.jpg");
-              width: 500px;
+              width: 250px;
               height: 400px;
-              margin-right: 20px;
+              margin-right: 30px;
               text-align: center;
               line-height: 200px;
               color: cyan;
-              font-size: 50px;
+              font-size: 30px;
               cursor: pointer;
               transition: background-color 0.5s;	background-position: center;
               background-repeat: no-repeat;
               background-size:cover;
-              margin-bottom:50px;
+              margin-bottom:30px;
          
             }
       
@@ -193,20 +198,20 @@ body {
 
               .box-7 { box-shadow: 0px 10px 10px rgba(0, 0, 3, 0.809);
   
-                background-image:  url('./images/twins.jpg');
-                width: 500px;
+                background-image:  url('./images/twins2.jpeg');
+                width: 250px;
                 height: 400px;
-                margin-right: 20px;
+                margin-right: 30px;
                 text-align: center;
                 line-height: 200px;
                 color: rgb(32, 0, 192);
-                font-size: 50px;
+                font-size: 30px;
                 cursor: pointer;
                 transition: background-color 0.5s;
                 background-position: center;
                 background-repeat: no-repeat;
                 background-size:cover;
-                margin-bottom:50px;
+                margin-bottom:30px;
                
               
               }
@@ -217,20 +222,20 @@ body {
                 
               .box-8 { box-shadow: 0px 10px 10px rgba(0, 182, 237, 0.809);
   
-                background-image:  url('./images/royals.webp');
-                width: 500px;
+                background-image:  url('./images/royals2.webp');
+                width: 250px;
                 height: 400px;
-                margin-right: 20px;
+                margin-right: 30px;
                 text-align: center;
                 line-height: 200px;
                 color: rgb(0, 150, 200);
-                font-size: 50px;
+                font-size: 30px;
                 cursor: pointer;
                 transition: background-color 0.5s;
                 background-position: center;
                 background-repeat: no-repeat;
                 background-size:cover;
-                margin-bottom:50px;
+                margin-bottom:30px;
                
               
               }
@@ -241,19 +246,19 @@ body {
                 .box-9 { box-shadow: 0px 10px 10px rgba(188, 0, 0, 0.809);
   
                   background-image:  url('./images/ind.png');
-                  width: 500px;
+                  width: 250px;
                   height: 400px;
-                  margin-right: 20px;
+                  margin-right: 30px;
                   text-align: center;
                   line-height: 200px;
                   color: rgb(176, 0, 0);
-                  font-size: 50px;
+                  font-size: 30px;
                   cursor: pointer;
                   transition: background-color 0.5s;
                   background-position: center;
                   background-repeat: no-repeat;
                   background-size:cover;
-                  margin-bottom:50px;
+                  margin-bottom:30px;
                  
                 
                 }
@@ -266,19 +271,19 @@ body {
                   .box-10 { box-shadow: 0px 10px 10px rgba(188, 75, 0, 0.809);
   
                     background-image:  url('./images/baltimore.jpg');
-                    width: 500px;
+                    width: 250px;
                     height: 400px;
-                    margin-right: 20px;
+                    margin-right: 30px;
                     text-align: center;
                     line-height: 200px;
                     color: rgb(255, 128, 0);
-                    font-size: 50px;
+                    font-size: 30px;
                     cursor: pointer;
                     transition: background-color 0.5s;
                     background-position: center;
                     background-repeat: no-repeat;
                     background-size:cover;
-                    margin-bottom:50px;
+                    margin-bottom:30px;
                    
                   
                   }
@@ -288,20 +293,20 @@ body {
                     transition: transform 0.3s ease-in-out;}
                     .box-11{ box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.809);
   
-                      background-image:  url('./images/white.png');
-                      width: 500px;
+                      background-image:  url('./images/soxs.jpg');
+                      width: 250px;
                       height: 400px;
-                      margin-right: 20px;
+                      margin-right: 30px;
                       text-align: center;
                       line-height: 200px;
                       color: rgb(255, 255, 255);
-                      font-size: 50px;
+                      font-size: 30px;
                       cursor: pointer;
                       transition: background-color 0.5s;
                       background-position: center;
                       background-repeat: no-repeat;
                       background-size:cover;
-                      margin-bottom:50px;
+                      margin-bottom:30px;
                      
                     
                     }
@@ -313,19 +318,19 @@ body {
                       .box-12{ box-shadow: 0px 10px 10px rgba(21, 0, 255, 0.809);
   
                         background-image:  url('./images/rays.jpg');
-                        width: 500px;
+                        width: 250px;
                         height: 400px;
-                        margin-right: 20px;
+                        margin-right: 30px;
                         text-align: center;
                         line-height: 200px;
                         color: rgb(242, 255, 0);
-                        font-size: 50px;
+                        font-size: 30px;
                         cursor: pointer;
                         transition: background-color 0.5s;
                         background-position: center;
                         background-repeat: no-repeat;
                         background-size:cover;
-                        margin-bottom:50px;
+                        margin-bottom:30px;
                        
                       
                       }
@@ -336,19 +341,20 @@ body {
                         .box-13{ box-shadow: 0px 10px 10px rgba(255, 0, 0, 0.809);
   
                           background-image:  url('./images/jays.webp');
-                          width: 500px;
+                          width: 250px;
                           height: 400px;
-                          margin-right: 20px;
+                       
+                          margin-right: 30px;
                           text-align: center;
                           line-height: 200px;
                           color: rgb(0, 0, 177);
-                          font-size: 50px;
+                          font-size: 30px;
                           cursor: pointer;
                           transition: background-color 0.5s;
                           background-position: center;
                           background-repeat: no-repeat;
                           background-size:cover;
-                          margin-bottom:50px;
+                          margin-bottom:30px;
                          
                         
                         }
@@ -361,19 +367,19 @@ body {
                           .box-14{ box-shadow: 0px 10px 10px rgba(0, 4, 255, 0.809);
   
                             background-image:  url('./images/braves.jpg');
-                            width: 500px;
+                            width: 250px;
                             height: 400px;
-                            margin-right: 20px;
+                            margin-right: 30px;
                             text-align: center;
                             line-height: 200px;
                             color: rgb(255, 17, 17);
-                            font-size: 50px;
+                            font-size: 30px;
                             cursor: pointer;
                             transition: background-color 0.5s;
                             background-position: center;
                             background-repeat: no-repeat;
                             background-size:cover;
-                            margin-bottom:50px;
+                            margin-bottom:30px;
                            
                           
                           }
@@ -385,19 +391,19 @@ body {
                             .box-15{ box-shadow: 0px 10px 10px rgba(255, 0, 0, 0.809);
   
                               background-image:  url('./images/cards.jpg');
-                              width: 500px;
+                              width: 250px;
                               height: 400px;
-                              margin-right: 20px;
+                              margin-right: 30px;
                               text-align: center;
                               line-height: 200px;
                               color: rgb(255, 17, 17);
-                              font-size: 50px;
+                              font-size: 30px;
                               cursor: pointer;
                               transition: background-color 0.5s;
                               background-position: center;
                               background-repeat: no-repeat;
                               background-size:cover;
-                              margin-bottom:50px;
+                              margin-bottom:30px;
                              
 
                             }
@@ -406,19 +412,19 @@ body {
                               .box-16{ box-shadow: 0px 10px 10px rgba(0, 2, 113, 0.809);
   
                                 background-image:  url('./images/brewers.webp');
-                                width: 500px;
+                                width: 250px;
                                 height: 400px;
-                                margin-right: 20px;
+                                margin-right: 30px;
                                 text-align: center;
                                 line-height: 200px;
                                 color: rgb(255, 17, 17);
-                                font-size: 50px;
+                                font-size: 30px;
                                 cursor: pointer;
                                 transition: background-color 0.5s;
                                 background-position: center;
                                 background-repeat: no-repeat;
                                 background-size:cover;
-                                margin-bottom:50px;
+                                margin-bottom:30px;
                                
   
                               }
@@ -427,19 +433,19 @@ body {
                                 .box-17{ box-shadow: 0px 10px 10px rgba(0, 4, 255, 0.809);
   
                                   background-image:  url('./images/cubs.jpg');
-                                  width: 500px;
+                                  width: 250px;
                                   height: 400px;
-                                  margin-right: 20px;
+                                  margin-right: 30px;
                                   text-align: center;
                                   line-height: 200px;
                                   color: rgb(255, 17, 17);
-                                  font-size: 50px;
+                                  font-size: 30px;
                                   cursor: pointer;
                                   transition: background-color 0.5s;
                                   background-position: center;
                                   background-repeat: no-repeat;
                                   background-size:cover;
-                                  margin-bottom:50px;
+                                  margin-bottom:30px;
                                  
     
                                 }
@@ -447,20 +453,20 @@ body {
                                   transition: transform 0.3s ease-in-out;}
                                   .box-18{ box-shadow: 0px 10px 10px rgba(255, 0, 0, 0.809);
   
-                                    background-image:  url('./images/votto.jpg');
-                                    width: 500px;
+                                    background-image:  url('./images/reds.jpg');
+                                    width: 250px;
                                     height: 400px;
-                                    margin-right: 20px;
+                                    margin-right: 30px;
                                     text-align: center;
                                     line-height: 200px;
-                                    color: rgb(255, 17, 17);
+                                    color: rgb(0, 174, 255);
                                     font-size: 50px;
                                     cursor: pointer;
                                     transition: background-color 0.5s;
                                     background-position: center;
                                     background-repeat: no-repeat;
                                     background-size:cover;
-                                    margin-bottom:50px;
+                                    margin-bottom:30px;
                                    
       
                                   }
@@ -470,19 +476,19 @@ body {
                                     .box-19{ box-shadow: 0px 10px 10px rgba(255, 0, 0, 0.809);
   
                                       background-image:  url('./images/nats.jpg');
-                                      width: 500px;
+                                      width: 250px;
                                       height: 400px;
-                                      margin-right: 20px;
+                                      margin-right: 30px;
                                       text-align: center;
                                       line-height: 200px;
                                       color: rgb(255, 17, 17);
-                                      font-size: 50px;
+                                      font-size: 30px;
                                       cursor: pointer;
                                       transition: background-color 0.5s;
                                       background-position: center;
                                       background-repeat: no-repeat;
                                       background-size:cover;
-                                      margin-bottom:50px;
+                                      margin-bottom:30px;
                                      
         
                                     }
@@ -491,19 +497,19 @@ body {
                                       .box-20{ box-shadow: 0px 10px 10px rgba(255, 0, 195, 0.809);
   
                                         background-image:  url('./images/marlins.jpg');
-                                        width: 500px;
+                                        width: 250px;
                                         height: 400px;
-                                        margin-right: 20px;
+                                        margin-right: 30px;
                                         text-align: center;
                                         line-height: 200px;
                                         color: rgb(255, 17, 17);
-                                        font-size: 50px;
+                                        font-size: 30px;
                                         cursor: pointer;
                                         transition: background-color 0.5s;
                                         background-position: center;
                                         background-repeat: no-repeat;
                                         background-size:cover;
-                                        margin-bottom:50px;
+                                        margin-bottom:30px;
                                        
           
                                       }
@@ -512,19 +518,19 @@ body {
                                         .box-21{ box-shadow: 0px 10px 10px rgba(255, 136, 0, 0.809);
   
                                           background-image:  url('./images/mets.jpg');
-                                          width: 500px;
+                                          width: 250px;
                                           height: 400px;
-                                          margin-right: 20px;
+                                          margin-right: 30px;
                                           text-align: center;
                                           line-height: 200px;
                                           color: rgb(255, 145, 0);
-                                          font-size: 50px;
+                                          font-size: 30px;
                                           cursor: pointer;
                                           transition: background-color 0.5s;
                                           background-position: center;
                                           background-repeat: no-repeat;
                                           background-size:cover;
-                                          margin-bottom:50px;
+                                          margin-bottom:30px;
                                          
             
                                         }
@@ -534,19 +540,19 @@ body {
                                           .box-22{ box-shadow: 0px 10px 10px rgba(255, 0, 0, 0.809);
   
                                             background-image:  url('./images/Philly.avif');
-                                            width: 500px;
+                                            width: 250px;
                                             height: 400px;
-                                            margin-right: 20px;
+                                            margin-right: 30px;
                                             text-align: center;
                                             line-height: 200px;
                                             color: rgb(255, 17, 17);
-                                            font-size: 50px;
+                                            font-size: 30px;
                                             cursor: pointer;
                                             transition: background-color 0.5s;
                                             background-position: center;
                                             background-repeat: no-repeat;
                                             background-size:cover;
-                                            margin-bottom:50px;
+                                            margin-bottom:30px;
                                            
               
                                           }
@@ -557,19 +563,19 @@ body {
                                             .box-23{ box-shadow: 0px 10px 10px rgba(0, 149, 255, 0.809);
   
                                               background-image:  url('./images/dodgers.jpg');
-                                              width: 500px;
+                                              width: 250px;
                                               height: 400px;
-                                              margin-right: 20px;
+                                              margin-right: 30px;
                                               text-align: center;
                                               line-height: 200px;
                                               color: rgb(255, 17, 17);
-                                              font-size: 50px;
+                                              font-size: 30px;
                                               cursor: pointer;
                                               transition: background-color 0.5s;
                                               background-position: center;
                                               background-repeat: no-repeat;
                                               background-size:cover;
-                                              margin-bottom:50px;
+                                              margin-bottom:30px;
                                              
                 
                                             }
@@ -577,40 +583,40 @@ body {
                                               transition: transform 0.3s ease-in-out;}
                                               .box-24{ box-shadow: 0px 10px 10px rgba(255, 153, 0, 0.809);
   
-                                                background-image:  url('./images/giants.webp');
-                                                width: 500px;
+                                                background-image:  url('./images/chap.jpg');
+                                                width: 250px;
                                                 height: 400px;
-                                                margin-right: 20px;
+                                                margin-right: 30px;
                                                 text-align: center;
                                                 line-height: 200px;
                                                 color: rgb(255, 17, 17);
-                                                font-size: 50px;
+                                                font-size: 30px;
                                                 cursor: pointer;
                                                 transition: background-color 0.5s;
                                                 background-position: center;
                                                 background-repeat: no-repeat;
                                                 background-size:cover;
-                                                margin-bottom:50px;
+                                                margin-bottom:30px;
                                                
                   
                                               }
                                            
                                                 .box-25{ box-shadow: 0px 10px 10px rgba(255, 0, 251, 0.809);
   
-                                                  background-image:  url('./images/rockies.avif');
-                                                  width: 500px;
+                                                  background-image:  url('./images/Rockies2.webp');
+                                                  width: 250px;
                                                   height: 400px;
-                                                  margin-right: 20px;
+                                                  margin-right: 30px;
                                                   text-align: center;
                                                   line-height: 200px;
                                                   color: rgb(255, 17, 17);
-                                                  font-size: 50px;
+                                                  font-size: 30px;
                                                   cursor: pointer;
                                                   transition: background-color 0.5s;
                                                   background-position: center;
                                                   background-repeat: no-repeat;
                                                   background-size:cover;
-                                                  margin-bottom:50px;
+                                                  margin-bottom:30px;
                                                  
                     
                                                 }
@@ -619,19 +625,19 @@ body {
                                                   .box-26{ box-shadow: 0px 10px 10px rgba(84, 39, 0, 0.809);
   
                                                     background-image:  url('./images/padres.jpg');
-                                                    width: 500px;
+                                                    width: 250px;
                                                     height: 400px;
-                                                    margin-right: 20px;
+                                                    margin-right: 30px;
                                                     text-align: center;
                                                     line-height: 200px;
                                                     color: rgb(255, 17, 17);
-                                                    font-size: 50px;
+                                                    font-size: 30px;
                                                     cursor: pointer;
                                                     transition: background-color 0.5s;
                                                     background-position: center;
                                                     background-repeat: no-repeat;
                                                     background-size:cover;
-                                                    margin-bottom:50px;
+                                                    margin-bottom:30px;
                                                    
                       
                                                   }
@@ -640,19 +646,19 @@ body {
                                                     .box-27{ box-shadow: 0px 10px 10px rgb(255, 132, 0);
   
                                                       background-image:  url('./images/astos.jpg');
-                                                      width: 500px;
+                                                      width: 250px;
                                                       height: 400px;
-                                                      margin-right: 20px;
+                                                      margin-right: 30px;
                                                       text-align: center;
                                                       line-height: 200px;
                                                       color: rgb(255, 176, 17);
-                                                      font-size: 50px;
+                                                      font-size: 30px;
                                                       cursor: pointer;
                                                       transition: background-color 0.5s;
                                                       background-position: center;
                                                       background-repeat: no-repeat;
                                                       background-size:cover;
-                                                      margin-bottom:50px;
+                                                      margin-bottom:30px;
                                                      
                         
                                                     }
@@ -661,19 +667,19 @@ body {
                                                       .box-28{ box-shadow: 0px 10px 10px rgba(0, 171, 250, 0.809);
   
                                                         background-image:  url('./images/marieners.jpg');
-                                                        width: 500px;
+                                                        width: 250px;
                                                         height: 400px;
-                                                        margin-right: 20px;
+                                                        margin-right: 30px;
                                                         text-align: center;
                                                         line-height: 200px;
                                                         color: rgb(0, 195, 255);
-                                                        font-size: 50px;
+                                                        font-size: 30px;
                                                         cursor: pointer;
                                                         transition: background-color 0.5s;
                                                         background-position: center;
                                                         background-repeat: no-repeat;
                                                         background-size:cover;
-                                                        margin-bottom:50px;
+                                                        margin-bottom:30px;
                                                        
                           
                                                       }
@@ -681,20 +687,20 @@ body {
                                                         transition: transform 0.3s ease-in-out;}
                                                         .box-29{ box-shadow: 0px 10px 10px rgba(255, 0, 0, 0.809);
   
-                                                          background-image:  url('./images/angels.jpg');
-                                                          width: 500px;
+                                                          background-image:  url('./images/trout.jpg');
+                                                          width: 250px;
                                                           height: 400px;
-                                                          margin-right: 20px;
+                                                          margin-right: 30px;
                                                           text-align: center;
                                                           line-height: 200px;
                                                           color: rgb(255, 17, 17);
-                                                          font-size: 50px;
+                                                          font-size: 30px;
                                                           cursor: pointer;
                                                           transition: background-color 0.5s;
                                                           background-position: center;
                                                           background-repeat: no-repeat;
                                                           background-size:cover;
-                                                          margin-bottom:50px;
+                                                          margin-bottom:30px;
                                                          
                             
                                                         }
@@ -703,19 +709,19 @@ body {
                                                           .box-30{ box-shadow: 0px 10px 10px rgba(26, 255, 0, 0.809);
   
                                                             background-image:  url('./images/a\'s.jpg');
-                                                            width: 500px;
+                                                            width: 250px;
                                                             height: 400px;
-                                                            margin-right: 20px;
+                                                            margin-right: 30px;
                                                             text-align: center;
                                                             line-height: 200px;
                                                             color: rgb(17, 255, 33);
-                                                            font-size: 50px;
+                                                            font-size: 30px;
                                                             cursor: pointer;
                                                             transition: background-color 0.5s;
                                                             background-position: center;
                                                             background-repeat: no-repeat;
                                                             background-size:cover;
-                                                            margin-bottom:50px;
+                                                            margin-bottom:30px;
                                                            
                               
                                                           }
@@ -724,19 +730,19 @@ body {
                                                             .box-31{ box-shadow: 0px 10px 10px rgba(0, 145, 255, 0.809);
   
                                                               background-image:  url('./images/goff.jpg');
-                                                              width: 500px;
+                                                              width: 250px;
                                                               height: 400px;
-                                                              margin-right: 20px;
+                                                              margin-right: 30px;
                                                               text-align: center;
                                                               line-height: 200px;
                                                               color: rgb(0, 112, 209);
-                                                              font-size: 50px;
+                                                              font-size: 30px;
                                                               cursor: pointer;
                                                               transition: background-color 0.5s;
                                                               background-position: center;
                                                               background-repeat: no-repeat;
                                                               background-size:cover;
-                                                              margin-bottom:50px;
+                                                              margin-bottom:30px;
                                                              
                                 
                                                             }
@@ -745,19 +751,19 @@ body {
                                                               .box-32{ box-shadow: 0px 10px 10px rgba(255, 1, 1, 0.809);
   
                                                                 background-image:  url('./images/mac.jpg');
-                                                                width: 500px;
+                                                                width: 250px;
                                                                 height: 400px;
-                                                                margin-right: 20px;
+                                                                margin-right: 30px;
                                                                 text-align: center;
                                                                 line-height: 200px;
                                                                 color: rgb(0, 26, 255);
-                                                                font-size: 50px;
+                                                                font-size: 30px;
                                                                 cursor: pointer;
                                                                 transition: background-color 0.5s;
                                                                 background-position: center;
                                                                 background-repeat: no-repeat;
                                                                 background-size:cover;
-                                                                margin-bottom:50px;
+                                                                margin-bottom:30px;
                                                                
                                   
                                                               }
@@ -767,19 +773,19 @@ body {
                                                                 .box-33{ box-shadow: 0px 10px 10px rgba(255, 0, 230, 0.809);
   
                                                                   background-image:  url('./images/Connor.jpg');
-                                                                  width: 500px;
+                                                                  width: 250px;
                                                                   height: 400px;
-                                                                  margin-right: 20px;
+                                                                  margin-right: 30px;
                                                                   text-align: center;
                                                                   line-height: 200px;
                                                                   color: rgb(255, 0, 43);
-                                                                  font-size: 50px;
+                                                                  font-size: 30px;
                                                                   cursor: pointer;
                                                                   transition: background-color 0.5s;
                                                                   background-position: center;
                                                                   background-repeat: no-repeat;
                                                                   background-size:cover;
-                                                                  margin-bottom:50px;
+                                                                  margin-bottom:30px;
                                                                  
                                     
                                                                 }
@@ -788,19 +794,19 @@ body {
                                                                   .box-34{ box-shadow: 0px 10px 10px rgba(255, 0, 0, 0.809);
   
                                                                     background-image:  url('./images/wings.webp');
-                                                                    width: 500px;
+                                                                    width: 250px;
                                                                     height: 400px;
-                                                                    margin-right: 20px;
+                                                                    margin-right: 30px;
                                                                     text-align: center;
                                                                     line-height: 200px;
                                                                     color: rgb(0, 26, 255);
-                                                                    font-size: 50px;
+                                                                    font-size: 30px;
                                                                     cursor: pointer;
                                                                     transition: background-color 0.5s;
                                                                     background-position: center;
                                                                     background-repeat: no-repeat;
                                                                     background-size:cover;
-                                                                    margin-bottom:50px;
+                                                                    margin-bottom:30px;
                                                                    
                                       
                                                                   }
