@@ -91,11 +91,15 @@ Hockey
   <a href='/rangers' class="box-36" >Rangers </a>
   <a href="/bruins" className="box-37"> Boston Bruins!!!!!! </a>
   <a href="/co" className="box-38"> Av   </a>
-  <a href="/stars" className="box-39"> Dallas Stars  </a>
-  <a href="/panthers" className="box-40"> Florida Panthers </a>
+
+ 
+	</div>
+  <div className="container">
   <a href="/oilers" className="box-41"> Edmongton  </a>
   <a href="/wings" className="box-34"> DETROIT RED WINGS </a>
-	</div>
+  <a href="/stars" className="box-39"> Dallas Stars  </a>
+  <a href="/panthers" className="box-40"> Florida Panthers </a>
+  </div>
 MISC!
   <div class="container">
   

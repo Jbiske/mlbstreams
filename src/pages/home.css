@@ -14,18 +14,19 @@ body {
     padding: 45px;
   }
   .app
-  { 
+  { padding-top: 1rem;
     font-size: 60px;
-    color: white;
+    color: rgb(255, 0, 0);
     text-align: center;
   
   }
   .container {
+    padding-top: 1rem;
     width: 100%;
     height: auto;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    justify-content:center;
+
     height: 100%;
     flex-wrap: wrap; 
 
@@ -35,7 +36,7 @@ body {
   .box {
     
   
-    width: 150px;
+    width: 100px;
     height: 150px;
     margin-right: 30px;
     text-align: center;
@@ -56,11 +57,11 @@ body {
   .box-1 { box-shadow: 0px 10px 10px rgb(162, 106, 2);
     
     background-image:  url('./images/Tigers.avif');
-    width: 250px;
-    height: 400px;
+    width: 300px;
+    height: 450px;
     margin-right: 30px;
     text-align: center;
-    line-height: 200px;
+    line-height: 350px;
     color: rgb(192, 105, 0);
     font-size: 30px;
     cursor: pointer;
@@ -80,11 +81,11 @@ body {
   .box-2 {  
     box-shadow: 0px 10px 10px red;
     background-image: url("./images/red.jpg");
-    width: 250px;
-    height: 400px;
+    width: 300px;
+    height: 450px;
     margin-right: 30px;
     text-align: center;
-    line-height: 200px;
+    line-height: 350px;
     color: red;
     font-size: 30px;
     cursor: pointer;
@@ -103,11 +104,11 @@ body {
     .box-3 {  
         box-shadow: 0px 10px 10px darkblue;
         background-image: url("./images/hicks.png");
-        width: 250px;
-        height: 400px;
+        width: 300px;
+        height: 450px;
         margin-right: 30px;
         text-align: center;
-        line-height: 200px;
+        line-height: 350px;
         color: rgb(0, 3, 83);
         font-size: 30px;
         cursor: pointer;
@@ -126,11 +127,11 @@ body {
           display:flex;
           box-shadow: 0px 10px 10px rgb(160, 0, 0);
           background-image: url("./images/texas2.jpeg");
-          width: 250px;
-          height: 400px;
+          width: 300px;
+          height: 450px;
           margin-right: 30px;
           text-align: center;
-          line-height: 200px;
+          line-height: 350px;
           color: rgb(255, 0, 0);
           font-size: 30px;
           cursor: pointer;
@@ -150,11 +151,11 @@ body {
           .box-5 {  
             box-shadow: 0px 10px 10px rgb(209, 181, 0);
             background-image: url("./images/pirates.jpg");
-            width: 250px;
-            height: 400px;
+            width: 300px;
+            height: 450px;
             margin-right: 30px;
             text-align: center;
-            line-height: 200px;
+            line-height: 300px;
             color: rgb(246, 236, 54);
             font-size: 30px;
             cursor: pointer;
@@ -174,8 +175,8 @@ body {
             .box-6 {  
               box-shadow: 0px 10px 10px rgb(57, 248, 255);
               background-image: url("./images/dbacks.jpg");
-              width: 250px;
-              height: 400px;
+              width: 300px;
+              height: 450px;
               margin-right: 30px;
               text-align: center;
               line-height: 200px;
@@ -196,14 +197,14 @@ body {
 
 
 
-              .box-7 { box-shadow: 0px 10px 10px rgba(0, 0, 3, 0.809);
+              .box-7 { box-shadow: 0px 10px 10px rgba(0, 51, 169, 0.809);
   
                 background-image:  url('./images/twins2.jpeg');
-                width: 250px;
-                height: 400px;
+                width: 300px;
+                height: 450px;
                 margin-right: 30px;
                 text-align: center;
-                line-height: 200px;
+                line-height: 350px;
                 color: rgb(32, 0, 192);
                 font-size: 30px;
                 cursor: pointer;
@@ -223,11 +224,11 @@ body {
               .box-8 { box-shadow: 0px 10px 10px rgba(0, 182, 237, 0.809);
   
                 background-image:  url('./images/royals2.webp');
-                width: 250px;
-                height: 400px;
+                width: 300px;
+                height: 450px;
                 margin-right: 30px;
                 text-align: center;
-                line-height: 200px;
+                line-height: 350px;
                 color: rgb(0, 150, 200);
                 font-size: 30px;
                 cursor: pointer;
@@ -246,11 +247,11 @@ body {
                 .box-9 { box-shadow: 0px 10px 10px rgba(188, 0, 0, 0.809);
   
                   background-image:  url('./images/ind.png');
-                  width: 250px;
-                  height: 400px;
+                  width: 300px;
+                  height: 450px;
                   margin-right: 30px;
                   text-align: center;
-                  line-height: 200px;
+                  line-height: 375px;
                   color: rgb(176, 0, 0);
                   font-size: 30px;
                   cursor: pointer;
@@ -271,11 +272,11 @@ body {
                   .box-10 { box-shadow: 0px 10px 10px rgba(188, 75, 0, 0.809);
   
                     background-image:  url('./images/baltimore.jpg');
-                    width: 250px;
-                    height: 400px;
+                    width: 300px;
+                    height: 450px;
                     margin-right: 30px;
                     text-align: center;
-                    line-height: 200px;
+                    line-height: 350px;
                     color: rgb(255, 128, 0);
                     font-size: 30px;
                     cursor: pointer;
@@ -291,11 +292,11 @@ body {
                   
                   .box-10:hover{  transform: scale(1.1);
                     transition: transform 0.3s ease-in-out;}
-                    .box-11{ box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.809);
+                    .box-11{ box-shadow: 0px 10px 10px rgba(255, 255, 255, 0.809);
   
                       background-image:  url('./images/soxs.jpg');
-                      width: 250px;
-                      height: 400px;
+                      width: 300px;
+                      height: 450px;
                       margin-right: 30px;
                       text-align: center;
                       line-height: 200px;
@@ -318,11 +319,11 @@ body {
                       .box-12{ box-shadow: 0px 10px 10px rgba(21, 0, 255, 0.809);
   
                         background-image:  url('./images/rays.jpg');
-                        width: 250px;
-                        height: 400px;
+                        width: 300px;
+                        height: 450px;
                         margin-right: 30px;
                         text-align: center;
-                        line-height: 200px;
+                        line-height: 350px;
                         color: rgb(242, 255, 0);
                         font-size: 30px;
                         cursor: pointer;
@@ -341,12 +342,12 @@ body {
                         .box-13{ box-shadow: 0px 10px 10px rgba(255, 0, 0, 0.809);
   
                           background-image:  url('./images/jays.webp');
-                          width: 250px;
-                          height: 400px;
+                          width: 300px;
+                          height: 450px;
                        
                           margin-right: 30px;
                           text-align: center;
-                          line-height: 200px;
+                          line-height: 350px;
                           color: rgb(0, 0, 177);
                           font-size: 30px;
                           cursor: pointer;
@@ -367,11 +368,11 @@ body {
                           .box-14{ box-shadow: 0px 10px 10px rgba(0, 4, 255, 0.809);
   
                             background-image:  url('./images/braves.jpg');
-                            width: 250px;
-                            height: 400px;
+                            width: 300px;
+                            height: 450px;
                             margin-right: 30px;
                             text-align: center;
-                            line-height: 200px;
+                            line-height: 350px;
                             color: rgb(255, 17, 17);
                             font-size: 30px;
                             cursor: pointer;
@@ -391,11 +392,11 @@ body {
                             .box-15{ box-shadow: 0px 10px 10px rgba(255, 0, 0, 0.809);
   
                               background-image:  url('./images/cards.jpg');
-                              width: 250px;
-                              height: 400px;
+                              width: 300px;
+                              height: 450px;
                               margin-right: 30px;
                               text-align: center;
-                              line-height: 200px;
+                              line-height: 350px;
                               color: rgb(255, 17, 17);
                               font-size: 30px;
                               cursor: pointer;
@@ -412,11 +413,11 @@ body {
                               .box-16{ box-shadow: 0px 10px 10px rgba(0, 2, 113, 0.809);
   
                                 background-image:  url('./images/brewers.webp');
-                                width: 250px;
-                                height: 400px;
+                                width: 300px;
+                                height: 450px;
                                 margin-right: 30px;
                                 text-align: center;
-                                line-height: 200px;
+                                line-height: 350px;
                                 color: rgb(255, 17, 17);
                                 font-size: 30px;
                                 cursor: pointer;
@@ -433,11 +434,11 @@ body {
                                 .box-17{ box-shadow: 0px 10px 10px rgba(0, 4, 255, 0.809);
   
                                   background-image:  url('./images/cubs.jpg');
-                                  width: 250px;
-                                  height: 400px;
+                                  width: 300px;
+                                  height: 450px;
                                   margin-right: 30px;
                                   text-align: center;
-                                  line-height: 200px;
+                                  line-height: 350px;
                                   color: rgb(255, 17, 17);
                                   font-size: 30px;
                                   cursor: pointer;
@@ -454,11 +455,11 @@ body {
                                   .box-18{ box-shadow: 0px 10px 10px rgba(255, 0, 0, 0.809);
   
                                     background-image:  url('./images/reds.jpg');
-                                    width: 250px;
-                                    height: 400px;
+                                    width: 300px;
+                                    height: 450px;
                                     margin-right: 30px;
                                     text-align: center;
-                                    line-height: 200px;
+                                    line-height: 350px;
                                     color: rgb(0, 174, 255);
                                     font-size: 50px;
                                     cursor: pointer;
@@ -476,8 +477,8 @@ body {
                                     .box-19{ box-shadow: 0px 10px 10px rgba(255, 0, 0, 0.809);
   
                                       background-image:  url('./images/nats.jpg');
-                                      width: 250px;
-                                      height: 400px;
+                                      width: 300px;
+                                      height: 450px;
                                       margin-right: 30px;
                                       text-align: center;
                                       line-height: 200px;
@@ -497,11 +498,11 @@ body {
                                       .box-20{ box-shadow: 0px 10px 10px rgba(255, 0, 195, 0.809);
   
                                         background-image:  url('./images/marlins.jpg');
-                                        width: 250px;
-                                        height: 400px;
+                                        width: 300px;
+                                        height: 450px;
                                         margin-right: 30px;
                                         text-align: center;
-                                        line-height: 200px;
+                                        line-height: 350px;
                                         color: rgb(255, 17, 17);
                                         font-size: 30px;
                                         cursor: pointer;
@@ -518,11 +519,11 @@ body {
                                         .box-21{ box-shadow: 0px 10px 10px rgba(255, 136, 0, 0.809);
   
                                           background-image:  url('./images/mets.jpg');
-                                          width: 250px;
-                                          height: 400px;
+                                          width: 300px;
+                                          height: 450px;
                                           margin-right: 30px;
                                           text-align: center;
-                                          line-height: 200px;
+                                          line-height: 350px;
                                           color: rgb(255, 145, 0);
                                           font-size: 30px;
                                           cursor: pointer;
@@ -540,8 +541,8 @@ body {
                                           .box-22{ box-shadow: 0px 10px 10px rgba(255, 0, 0, 0.809);
   
                                             background-image:  url('./images/Philly.avif');
-                                            width: 250px;
-                                            height: 400px;
+                                            width: 300px;
+                                            height: 450px;
                                             margin-right: 30px;
                                             text-align: center;
                                             line-height: 200px;
@@ -563,11 +564,11 @@ body {
                                             .box-23{ box-shadow: 0px 10px 10px rgba(0, 149, 255, 0.809);
   
                                               background-image:  url('./images/dodgers.jpg');
-                                              width: 250px;
-                                              height: 400px;
+                                              width: 300px;
+                                              height: 450px;
                                               margin-right: 30px;
                                               text-align: center;
-                                              line-height: 200px;
+                                              line-height: 350px;
                                               color: rgb(255, 17, 17);
                                               font-size: 30px;
                                               cursor: pointer;
@@ -584,11 +585,11 @@ body {
                                               .box-24{ box-shadow: 0px 10px 10px rgba(255, 153, 0, 0.809);
   
                                                 background-image:  url('./images/chap.jpg');
-                                                width: 250px;
-                                                height: 400px;
+                                                width: 300px;
+                                                height: 450px;
                                                 margin-right: 30px;
                                                 text-align: center;
-                                                line-height: 200px;
+                                                line-height: 350px;
                                                 color: rgb(255, 17, 17);
                                                 font-size: 30px;
                                                 cursor: pointer;
@@ -606,11 +607,11 @@ body {
                                                 .box-25{ box-shadow: 0px 10px 10px rgba(255, 0, 251, 0.809);
   
                                                   background-image:  url('./images/Rockies2.webp');
-                                                  width: 250px;
-                                                  height: 400px;
+                                                  width: 300px;
+                                                  height: 450px;
                                                   margin-right: 30px;
                                                   text-align: center;
-                                                  line-height: 200px;
+                                                  line-height: 350px;
                                                   color: rgb(255, 17, 17);
                                                   font-size: 30px;
                                                   cursor: pointer;
@@ -627,11 +628,11 @@ body {
                                                   .box-26{ box-shadow: 0px 10px 10px rgba(84, 39, 0, 0.809);
   
                                                     background-image:  url('./images/padres2.jpg');
-                                                    width: 250px;
-                                                    height: 400px;
+                                                    width: 300px;
+                                                    height: 450px;
                                                     margin-right: 30px;
                                                     text-align: center;
-                                                    line-height: 200px;
+                                                    line-height: 350px;
                                                     color: rgb(255, 17, 17);
                                                     font-size: 30px;
                                                     cursor: pointer;
@@ -648,11 +649,11 @@ body {
                                                     .box-27{ box-shadow: 0px 10px 10px rgb(255, 132, 0);
   
                                                       background-image:  url('./images/astos.jpg');
-                                                      width: 250px;
-                                                      height: 400px;
+                                                      width: 300px;
+                                                      height: 450px;
                                                       margin-right: 30px;
                                                       text-align: center;
-                                                      line-height: 200px;
+                                                      line-height: 350px;
                                                       color: rgb(255, 176, 17);
                                                       font-size: 30px;
                                                       cursor: pointer;
@@ -669,11 +670,11 @@ body {
                                                       .box-28{ box-shadow: 0px 10px 10px rgba(0, 171, 250, 0.809);
   
                                                         background-image:  url('./images/marieners.jpg');
-                                                        width: 250px;
-                                                        height: 400px;
+                                                        width: 300px;
+                                                        height: 450px;
                                                         margin-right: 30px;
                                                         text-align: center;
-                                                        line-height: 200px;
+                                                        line-height: 350px;
                                                         color: rgb(0, 195, 255);
                                                         font-size: 30px;
                                                         cursor: pointer;
@@ -690,11 +691,11 @@ body {
                                                         .box-29{ box-shadow: 0px 10px 10px rgba(255, 0, 0, 0.809);
   
                                                           background-image:  url('./images/trout.jpg');
-                                                          width: 250px;
-                                                          height: 400px;
+                                                          width: 300px;
+                                                          height: 450px;
                                                           margin-right: 30px;
                                                           text-align: center;
-                                                          line-height: 200px;
+                                                          line-height: 350px;
                                                           color: rgb(255, 17, 17);
                                                           font-size: 30px;
                                                           cursor: pointer;
@@ -711,11 +712,11 @@ body {
                                                           .box-30{ box-shadow: 0px 10px 10px rgba(26, 255, 0, 0.809);
   
                                                             background-image:  url('./images/a\'s.jpg');
-                                                            width: 250px;
-                                                            height: 400px;
+                                                            width: 300px;
+                                                            height: 450px;
                                                             margin-right: 30px;
                                                             text-align: center;
-                                                            line-height: 200px;
+                                                            line-height: 350px;
                                                             color: rgb(17, 255, 33);
                                                             font-size: 30px;
                                                             cursor: pointer;
@@ -732,11 +733,11 @@ body {
                                                             .box-31{ box-shadow: 0px 10px 10px rgba(0, 145, 255, 0.809);
   
                                                               background-image:  url('./images/goff.jpg');
-                                                              width: 250px;
-                                                              height: 400px;
+                                                              width: 300px;
+                                                              height: 450px;
                                                               margin-right: 30px;
                                                               text-align: center;
-                                                              line-height: 200px;
+                                                              line-height: 350px;
                                                               color: rgb(0, 112, 209);
                                                               font-size: 30px;
                                                               cursor: pointer;
@@ -753,8 +754,8 @@ body {
                                                               .box-32{ box-shadow: 0px 10px 10px rgba(255, 1, 1, 0.809);
   
                                                                 background-image:  url('./images/mac.jpg');
-                                                                width: 250px;
-                                                                height: 400px;
+                                                                width: 300px;
+                                                                height: 450px;
                                                                 margin-right: 30px;
                                                                 text-align: center;
                                                                 line-height: 200px;
@@ -775,8 +776,8 @@ body {
                                                                 .box-33{ box-shadow: 0px 10px 10px rgba(255, 0, 230, 0.809);
   
                                                                   background-image:  url('./images/Connor.jpg');
-                                                                  width: 250px;
-                                                                  height: 400px;
+                                                                  width: 300px;
+                                                                  height: 450px;
                                                                   margin-right: 30px;
                                                                   text-align: center;
                                                                   line-height: 200px;
@@ -796,8 +797,8 @@ body {
                                                                   .box-34{ box-shadow: 0px 10px 10px rgba(255, 0, 0, 0.809);
   
                                                                     background-image:  url('./images/wings.webp');
-                                                                    width: 250px;
-                                                                    height: 400px;
+                                                                    width: 300px;
+                                                                    height: 450px;
                                                                     margin-right: 30px;
                                                                     text-align: center;
                                                                     line-height: 200px;
@@ -817,11 +818,11 @@ body {
                                                                     .box-35{ box-shadow: 0px 10px 10px rgba(255, 255, 255, 0.809);
   
                                                                       background-image:  url('./images/canes.png');
-                                                                      width: 250px;
-                                                                      height: 400px;
+                                                                      width: 300px;
+                                                                      height: 450px;
                                                                       margin-right: 30px;
                                                                       text-align: center;
-                                                                      line-height: 200px;
+                                                                      line-height: 350px;
                                                                       color: rgb(0, 26, 255);
                                                                       font-size: 30px;
                                                                       cursor: pointer;
@@ -838,11 +839,11 @@ body {
                                                                       .box-36{ box-shadow: 0px 10px 10px rgba(255, 0, 0, 0.809);
   
                                                                         background-image:  url('./images/rangers.jpg');
-                                                                        width: 250px;
-                                                                        height: 400px;
+                                                                        width: 300px;
+                                                                        height: 450px;
                                                                         margin-right: 30px;
                                                                         text-align: center;
-                                                                        line-height: 200px;
+                                                                        line-height: 350px;
                                                                         color: rgb(222, 0, 0);
                                                                         font-size: 40px;
                                                                         cursor: pointer;
@@ -859,8 +860,8 @@ body {
                                                                         .box-37{ box-shadow: 0px 10px 10px rgba(255, 208, 0, 0.809);
   
                                                                           background-image:  url('./images/bruins.jpg');
-                                                                          width: 250px;
-                                                                          height: 400px;
+                                                                          width: 300px;
+                                                                          height: 450px;
                                                                           margin-right: 30px;
                                                                           text-align: center;
                                                                           line-height: 200px;
@@ -880,11 +881,11 @@ body {
                                                                           .box-38{ box-shadow: 0px 10px 10px rgba(0, 153, 255, 0.809);
   
                                                                             background-image:  url('./images/av.webp');
-                                                                            width: 250px;
-                                                                            height: 400px;
+                                                                            width: 300px;
+                                                                            height: 450px;
                                                                             margin-right: 30px;
                                                                             text-align: center;
-                                                                            line-height: 200px;
+                                                                            line-height: 350px;
                                                                             color: rgb(0, 251, 255);
                                                                             font-size: 40px;
                                                                             cursor: pointer;
@@ -901,11 +902,11 @@ body {
                                                                             .box-39{ box-shadow: 0px 10px 10px rgba(0, 255, 17, 0.809);
   
                                                                               background-image:  url('./images/stars.jpg');
-                                                                              width: 250px;
-                                                                              height: 400px;
+                                                                              width: 300px;
+                                                                              height: 450px;
                                                                               margin-right: 30px;
                                                                               text-align: center;
-                                                                              line-height: 200px;
+                                                                              line-height: 350px;
                                                                               color: rgb(17, 255, 0);
                                                                               font-size: 40px;
                                                                               cursor: pointer;
@@ -922,8 +923,8 @@ body {
                                                                               .box-40{ box-shadow: 0px 10px 10px rgba(255, 0, 0, 0.809);
   
                                                                                 background-image:  url('./images/panthers.webp');
-                                                                                width: 250px;
-                                                                                height: 400px;
+                                                                                width: 300px;
+                                                                                height: 450px;
                                                                                 margin-right: 30px;
                                                                                 text-align: center;
                                                                                 line-height: 200px;
@@ -943,11 +944,11 @@ body {
                                                                                 .box-41{ box-shadow: 0px 10px 10px rgba(255, 136, 0, 0.809);
   
                                                                                   background-image:  url('./images/mcdavid.webp');
-                                                                                  width: 250px;
-                                                                                  height: 400px;
+                                                                                  width: 300px;
+                                                                                  height: 450px;
                                                                                   margin-right: 30px;
                                                                                   text-align: center;
-                                                                                  line-height: 200px;
+                                                                                  line-height: 350px;
                                                                                   color: rgb(254, 127, 0);
                                                                                   font-size: 40px;
                                                                                   cursor: pointer;
