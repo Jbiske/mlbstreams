@@ -124,7 +124,7 @@ body {
    
         transition: transform 0.3s ease-in-out;}
         .box-4 {  
-          display:flex;
+         
           box-shadow: 0px 10px 10px rgb(160, 0, 0);
           background-image: url("./images/texas2.jpeg");
           width: 300px;
