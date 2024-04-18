@@ -600,6 +600,8 @@ body {
                                                
                   
                                               }
+                                              .box-24:hover{  transform: scale(1.1);
+                                                transition: transform 0.3s ease-in-out;}
                                            
                                                 .box-25{ box-shadow: 0px 10px 10px rgba(255, 0, 251, 0.809);
   
@@ -624,7 +626,7 @@ body {
                                                   transition: transform 0.3s ease-in-out;}
                                                   .box-26{ box-shadow: 0px 10px 10px rgba(84, 39, 0, 0.809);
   
-                                                    background-image:  url('./images/padres.jpg');
+                                                    background-image:  url('./images/padres2.jpg');
                                                     width: 250px;
                                                     height: 400px;
                                                     margin-right: 30px;
