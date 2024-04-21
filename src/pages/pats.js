@@ -9,7 +9,7 @@ const Pats = () => {
         
             <div className="iframe"> 
           
-            <iframe src='https://embedstreams.me/nhl/washington-capitals-stream-1'title='Baseball'scrolling='no' allowFullScreen  ></iframe>
+            <iframe src='https://embedstreams.me/nhl/nashville-predators-stream-1'title='Baseball'scrolling='no' allowFullScreen  ></iframe>
             </div>
          
         </div>
